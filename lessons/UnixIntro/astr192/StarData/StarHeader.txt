@@ -1,0 +1,26 @@
+
+BrightStars.dat - Stars that are bright in the sky
+NearStars.dat   - Stars that are close to the Sun
+
+
+ Num       RA             DE          Vmag   B-V   Parallax    uRA     uDec
+
+ ---    h min s    deg arcmin arcsec   mag   mag     MAS     MAS/yr   MAS/yr
+
+Num : Catalog Number (B) = Bright star, (N) = Nearby star
+
+RA : Right ascension (sky coordinate) in HMS
+
+DE : Declination (sky coodrinate) in DMS
+
+Vmag : Magnitude in the V band (Apparent magnitude)
+
+B-V : B magnitude - V magnitude
+
+Parallax : Trigonometric parallax in milli-arcseconds (MAS)
+
+uRA : Proper motion in RA (uRA cos Dec) in MAS/yr
+
+uDec : Proper motion in Dec in MAS/yr
+
+http://en.wikipedia.org/wiki/Photometric_system

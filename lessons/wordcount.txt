@@ -1,0 +1,7 @@
+  3  19  93 bar.txt
+  1  14  70 baz.txt
+  1  33 185 bio.txt
+  0   0   0 draft.txt
+  2  12  57 foo.txt
+  5  20 102 wordcount.txt
+ 12  98 507 total

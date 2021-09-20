@@ -1,0 +1,14 @@
+2a. /astro/users/netid/Astro192
+4a. 6 files
+4b. StarCharts.pdf
+4c. ls -lh (I like to use the h for human readable file size units) ls -s or ls -S work as well
+5a. cp StarHeader.txt junk.dat
+6a. mv junk.dat junque.dat
+7a. rm junque.dat
+8a. cat StarHeader.txt
+8b. Num, RA, DE, Vmag, B-V, Parallax, uRA, uDec
+9a. echo name > small.dat
+10a. head -100 BrightStars.dat > small.dat
+11a. tail -10 BrightStars.dat >> small.dat
+12a. small.dat has 110 lines, BrightStars.dat has 5016 lines
+12b. wc filename, the number of lines is the first number printed
